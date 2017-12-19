@@ -1,6 +1,7 @@
 #!/usr/bin/python 
  
 
+print "Add a new line"
 print "hello world" 
 
 print "it works"
